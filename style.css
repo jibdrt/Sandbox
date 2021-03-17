@@ -1,0 +1,12 @@
+#title
+{
+color:rgb(150, 27, 27);
+}
+body{
+    margin:10px;
+}
+#header{
+    height:200px;
+    background:#ebeb03;
+    color:rgb(0, 0, 0);
+}
