@@ -52,17 +52,17 @@
 </nav>
 <div class="card-group">
   <div class="card">
-    <img src="..." class="unnamed.png" alt="...">
+    <img src="FFFF00.png.png" class="Art123.jpg" alt="...">
     <div class="card-body">
       <h5 class="card-title">ONE</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p class="card-text">Lorem ipsum dolor sit amet. Aut veritatis culpa ut nulla corporis qui laboriosam exercitationem. Ut aperiam dolorem qui nihil illo aut rerum debitis. Non blanditiis excepturi est sunt veniam eos adipisci placeat ut amet quasi.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Last updated 3 mins ago</small>
     </div>
   </div>
   <div class="card">
-    <img src="..." class="card-img-top" alt="...">
+    <img src="2691dc.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">TWO</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -72,7 +72,7 @@
     </div>
   </div>
   <div class="card">
-    <img src="..." class="card-img-top" alt="...">
+    <img src="ffb31b.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">THREE</h5>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
