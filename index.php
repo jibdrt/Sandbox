@@ -48,9 +48,9 @@
     </div>
   </div>
 </nav>
-<div class="title">
+<div class="center-title">
 <h1 id= "title">SANDBOX</h1></div>
-<h2>Bac à sable 2021</h2>
+<div id="title2"><h2>Bac à sable 2021</h2></div>
 
 
 <div class="card-group">
