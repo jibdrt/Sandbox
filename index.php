@@ -9,9 +9,7 @@
 </head>
 <body>
 
-<center><u><h1 id= "title">SANDBOX</h1></u></center>
-<center><h2>Bac à sable 2021</h2></center>
-<center><div id="header">MAYTHEFORCEBEWITHU</div></center>
+
 
 <main class="container">
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -45,40 +43,45 @@
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
+        <button id="search-button" class="btn btn-outline-success" type="submit">Search</button>
       </form>
     </div>
   </div>
 </nav>
+<div class="title">
+<h1 id= "title">SANDBOX</h1></div>
+<h2>Bac à sable 2021</h2>
+
+
 <div class="card-group">
   <div class="card">
-    <img src="FFFF00.png.png" class="Art123.jpg" alt="...">
+    <img src="fa71b1034307f86fa5fd90c01e44f11e.png" class="card-img-vh" alt="...">
     <div class="card-body">
       <h5 class="card-title">ONE</h5>
       <p class="card-text">Lorem ipsum dolor sit amet. Aut veritatis culpa ut nulla corporis qui laboriosam exercitationem. Ut aperiam dolorem qui nihil illo aut rerum debitis. Non blanditiis excepturi est sunt veniam eos adipisci placeat ut amet quasi.</p>
     </div>
     <div class="card-footer">
-      <small class="text-muted">Last updated 3 mins ago</small>
+    <button id="jb-button" type="button" class="btn btn-outline-primary">Primary</button>
     </div>
   </div>
   <div class="card">
-    <img src="2691dc.png" class="card-img-top" alt="...">
+    <img src="unnamed.jpg" class="card-img-vh" alt="...">
     <div class="card-body">
       <h5 class="card-title">TWO</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text">Lorem ipsum dolor sit amet. Aut veritatis culpa ut nulla corporis qui laboriosam exercitationem. Ut aperiam dolorem qui nihil illo aut rerum debitis. Non blanditiis excepturi est sunt veniam eos adipisci placeat ut amet quasi.</p>
     </div>
     <div class="card-footer">
-      <small class="text-muted">Last updated 3 mins ago</small>
+      <button id="jb-button" type="button" class="btn btn-outline-primary">Primary</button>
     </div>
   </div>
   <div class="card">
-    <img src="ffb31b.png" class="card-img-top" alt="...">
+    <img src="flat-girl-in-fall-season-character-vector-illustration.jpg" class="card-img-vh" alt="...">
     <div class="card-body">
       <h5 class="card-title">THREE</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text">Lorem ipsum dolor sit amet. Aut veritatis culpa ut nulla corporis qui laboriosam exercitationem. Ut aperiam dolorem qui nihil illo aut rerum debitis. Non blanditiis excepturi est sunt veniam eos adipisci placeat ut amet quasi</p>
     </div>
     <div class="card-footer">
-      <small class="text-muted">Last updated 3 mins ago</small>
+   <button id="jb-button" type="button" class="btn btn-outline-primary">Primary</button>
     </div>
   </div>
 </div>
