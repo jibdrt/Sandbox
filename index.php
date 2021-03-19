@@ -59,12 +59,12 @@
     <img src="fa71b1034307f86fa5fd90c01e44f11e.png" class="card-img-vh" alt="...">
     <div class="card-body">
       <h5 class="card-title">ONE</h5>
-      <p class="card-text">Lorem ipsum dolor sit amet. Aut veritatis culpa ut nulla corporis qui laboriosam exercitationem. Ut aperiam dolorem qui nihil illo aut rerum debitis. Non blanditiis excepturi est sunt veniam eos adipisci placeat ut amet quasi.</p>
+      <p class="card-text">Sans vouloir la ramener la seule différence concrète avec les briques c’est que vous appelez ça des tartes. Je suis chef de guerre moi, je suis pas là pour secouer des drapeaux et jouer de la trompette.</p>
     </div>
     <div class="card-footer">
     <button id="jb-button" type="button" class="btn btn-outline-primary">Primary</button>
     </div>
-  </div>
+  </div> 
   <div class="card">
     <img src="unnamed.jpg" class="card-img-vh" alt="...">
     <div class="card-body">

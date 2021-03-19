@@ -8,14 +8,14 @@
 color:#FFFFFF;
 padding-top: 100px;
 text-align: center;
-font-size: 50px;
+font-size: 100px;
 font-weight:bold;
 }
 
 #title2
 {
     color:#FFFFFF;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
@@ -46,13 +46,14 @@ body{
 
         border-color:#FFB31B;
         background-color:#FFFFFF;
-        color:#FFB31B;
+        color:#2691DC;
+        
     }
     
     #jb-button:hover{
 
         border-color:#FFB31B;
-        background-color:#FFB31B;
+        background-color:#2691DC;
         color: #FFFFFF;
     }
 #search-button{
@@ -64,8 +65,17 @@ body{
         background-color:#FFB31B;
         color: #FFFFFF;
 }
+
+.card-group{
+
+    border-color:#FFB31B;
+
+}
+
+
 .card-footer{
-    background-color:#FFFF00;
+    background-color:#FFB31B;
+    border-color:#FFB31B;
     
 }
 .card-group{
