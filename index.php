@@ -12,9 +12,10 @@
 
 
 <main class="container">
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#title">Navbar</a>
+    <a class="navbar-brand" href="#title">Barre de navigation</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -48,9 +49,9 @@
     </div>
   </div>
 </nav>
-<div class="center-title">
-<h1 id= "title">SANDBOX</h1></div>
-<div id="title2"><h2>Bac à sable 2021</h2></div>
+<div id="bloc-title">
+<h1 id= "title">SANDBOX</h1>
+<div id="title2"><h2>Bac à sable 2021</h2></div></div>
 
 
 <div class="card-group">
@@ -84,6 +85,34 @@
    <button id="jb-button" type="button" class="btn btn-outline-primary">Primary</button>
     </div>
   </div>
+</div>
+
+
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="Corgi.png" class="d-block" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="Redfish.png" class="d-block" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="CorgiBW.png" class="d-block" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"  data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"  data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
 </div>
 
 
